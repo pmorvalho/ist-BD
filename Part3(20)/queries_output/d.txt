@@ -1,0 +1,14 @@
++----------+---------------+----------------+
+| morada   | codigo_espaco | montante_total |
++----------+---------------+----------------+
+| Catolica | Central       |       510.0000 |
+| Catolica | DMKT          |       180.0000 |
+| FEUP     | Central       |       719.7000 |
+| FEUP     | DEG           |       750.0000 |
+| ISEL     | Central       |      5073.0000 |
+| IST      | Central       |       599.7000 |
+| IST      | DEG           |      1199.7000 |
+| IST      | DEI           |      1499.7000 |
+| IST      | DEQ           |       899.7000 |
++----------+---------------+----------------+
+9 rows in set (0.00 sec)
